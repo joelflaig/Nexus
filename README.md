@@ -1,6 +1,6 @@
 # Nexus  
 
-Nexus is a collection of Mojo (https://www.modular.com/max/mojo) libraries.  
+Nexus is a collection of [Mojo](https://www.modular.com/max/mojo) libraries.  
 
 Current libraries:
 
