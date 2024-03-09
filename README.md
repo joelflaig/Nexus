@@ -1,5 +1,10 @@
-# Nexus  
+<div align="center">
+    <img src="Nexus.gif" alt="Logo" width="250" height="250">
 
+  <h3 align="center">Nexus</h3>
+</div>    
+
+## Overview
 Nexus is a collection of [Mojo](https://www.modular.com/max/mojo) libraries.  
 
 Current libraries:
