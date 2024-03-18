@@ -11,8 +11,8 @@ Current libraries:
 
 <!-- toc -->
 
-- [Datastructures and algorithms](https://github.com/Mathprogrammer5/Nexus-DSA)
-- [ML](https://github.com/Mathprogrammer5/NexusNet)
+- [DSA](https://github.com/joelflaig/Nexus-DSA)
+- [ML](https://github.com/joelflaig/NexusNet)
 
 <!-- tocstop -->  
 
