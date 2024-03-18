@@ -1,4 +1,4 @@
-This Folder contains the binary files of the libraries (.📦 files).
+This Folder contains the binary files of the libraries (.mojopkg files).
 
 <!-- toc -->
 * ML library: Neural.mojopkg
