@@ -12,7 +12,7 @@ Current libraries:
 <!-- toc -->
 
 - [Datastructures and algorithms](https://github.com/Mathprogrammer5/Nexus-DSA)
-- [Neural Networks](https://github.com/Mathprogrammer5/NexusNet)
+- [ML](https://github.com/Mathprogrammer5/NexusNet)
 
 <!-- tocstop -->  
 
